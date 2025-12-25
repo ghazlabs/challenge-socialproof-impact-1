@@ -39,4 +39,4 @@ Impact tidak selalu berarti solusi yang rumit. Di open source project, sering ba
 
 Contohnya, kamu kontribusi ke web app berupa dashboard monitoring. Ternyata ada issue saat diakses dari mobile, tampilannya berantakan karena belum ada tailwind classes yang sesuai. Solusinya sederhana, cukup menambahkan class yang kurang. Tapi dampaknya besar karena sekarang dashboard tersebut bisa diakses dengan nyaman lewat mobile.
 
-Kasus seperti ini sering terjadi karena menjaga open source project itu tidak mudah. Issue kecil itu wajar, dan justru sering kali issue seperti inilah yang punya impact besar buat pengguna.
+Kasus seperti ini sering terjadi karena memang maintaining open source project itu nggak gampang. Yang perlu kamu lakukan supaya bisa nemu issue kayak gini adalah punya kesungguhan buat bantu & persistent buat deliver solusinya, itu aja sebenarnya.
